@@ -1,3 +1,5 @@
+# This repository was forked from https://github.com/hashicorp/terraform-aws-consul. It's no longer supported by hashicorp yet we currently rely on its scripts and tooling for provisioning Consul.
+
 # DISCLAIMER
 **This repository is no longer supported, please consider using [this repository](https://registry.terraform.io/modules/hashicorp/consul-starter/aws/latest) for the latest and most supported version for Consul.**
 
